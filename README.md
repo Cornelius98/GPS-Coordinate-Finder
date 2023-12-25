@@ -2,11 +2,14 @@
 
 ## Description
 
-The GPS-Coordinate-Finder is written in Javascript and HTML, the simple code finds the lattitude and longitude of any location the `Marker` is placed, on the GPS map that initializes when the code is run. The code is simple and easy to read, thus, easy to integrate into a larger code base.  
+The GPS-Coordinate-Finder is written in Javascript and HTML, the simple code finds the lattitude and longitude 
+of any location the `Marker` is placed, on the GPS map that initializes when the code is run. The code is simple and easy to read, thus, easy to integrate into a larger code base.  
 
 Available features include:
 - Google maps
 - Location marker
+- Lattidue output
+- Longitude output
 - Drag and drop support
 
 
